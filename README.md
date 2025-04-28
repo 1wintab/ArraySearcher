@@ -57,16 +57,13 @@
 
 ![indexed-sequential-search](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM3ZjRtbHdoc3o0bXdhYWJ3M2VnY3Z0OWRtZm5oM2prZG9ncDZjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yoKjtDJkiVmCwSGbST/giphy.gif)
 
-
-# 🚀 Getting Started
-
 ## 📋 Prerequisites
 
 ✔ 🛠️ C++17 compatible compiler
 
 ✔ 💻 Windows/Linux/macOS
 
-# 🚀 Quick Start
+# 🚀 Getting Started
 
  + Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
 
