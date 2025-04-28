@@ -64,8 +64,8 @@
 ✔ 💻 Windows/Linux/macOS
 
 # 🚀 Getting Started
-
- + Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
+ 
+ ## Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
 
 # 📈 Performance Insights
 
