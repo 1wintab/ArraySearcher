@@ -66,14 +66,9 @@
 
 ✔ 💻 Windows/Linux/macOS
 
-## ⚙️ Installation
+# 🚀 Quick Start
 
-```bash
-Copy
-git clone https://github.com/1wintab/ArraySearcher
-cd array-searcher
-make
-```
+ + Simple! Dobble click the `ParseTreeExplorer.exe` file. 😀
 
 # 📈 Performance Insights
 
