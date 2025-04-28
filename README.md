@@ -67,6 +67,8 @@
  
 + **Simple! Dobble click the `ArraySearcher.exe` file. 😀**
 
+   [![start](https://i.imgur.com/BDfY4vc.png)](https://github.com/1wintab/ArraySearcher/raw/refs/heads/master/ArraySearcher.exe)
+
 # 📈 Performance Insights
 
 + 🔄 Comparison counters
